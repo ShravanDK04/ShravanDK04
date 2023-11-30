@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShravanDK04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shravan Komejwar.
+- 👀 I’m studying in AISSMS COE ,PUNE
+- 🌱 I’m currently in SE
+- 💞️ 
+- 📫 sdkomejwar2110@gmail.com
 
 <!---
 ShravanDK04/ShravanDK04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
