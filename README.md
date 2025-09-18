@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shravan Komejwar.
 - 👀 I’m studying in AISSMS COE ,PUNE
-- 🌱 I’m currently in TE
 - 📫 sdkomejwar2110@gmail.com
 
 <!---
