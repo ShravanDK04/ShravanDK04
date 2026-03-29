@@ -85,6 +85,6 @@
 
 ###
 
-<p align="left">## Coding  <br><br>LeetCode  <br><br>![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=light&font=baloo&ext=contest)</p>
+<img src="https://raw.githubusercontent.com/ShravanDK04/ShravanDK04/output/snake.svg" alt="Snake animation" />
 
 ###
