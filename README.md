@@ -1,4 +1,4 @@
-<h1 align="left">Shravan Says 🚀</h1>
+<h1 align="left">Shravan Says ⚡️</h1>
 
 <p align="left"><i>Less confusion than yesterday. More clarity than before.</i></p>
 
@@ -18,7 +18,7 @@ I build real-world web applications and focus on becoming industry-ready through
 <p align="left">
 • Build full-stack applications with real use-cases <br>
 • Turn ideas into working systems (not just concepts) <br>
-• Learn by shipping, not just consuming
+• Learn by building, not just consuming
 </p>
 
 ---
@@ -28,7 +28,7 @@ I build real-world web applications and focus on becoming industry-ready through
 <p align="left">
 • Building a production-level full-stack project <br>
 • Strengthening backend + system design basics <br>
-• Preparing for internships (Web Dev / Full Stack)
+• Looking for internships (Web Dev / Full Stack)
 </p>
 
 ---
