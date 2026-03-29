@@ -1,4 +1,4 @@
-<h1 align="left">Shravan Says</h1>
+<h1 align="left">👋 Shravan Says</h1>
 
 <p align="left"><i>Progress is simple: less confusion today than yesterday.</i></p>
 
