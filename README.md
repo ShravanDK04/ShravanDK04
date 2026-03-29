@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="left">Hey, I'm Shravan</h3>
+<h3 align="left">👋 Hey, I'm Shravan</h3>
 
 <p align="left">
 Final Year Computer Engineering Student @ SPPU <br>
