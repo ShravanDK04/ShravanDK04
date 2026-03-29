@@ -25,16 +25,16 @@ Focused on building real-world projects and becoming industry-ready
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shravan-komejwar-184318258/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="36" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="36" />
   </a>
   <a href="mailto:sdkomejwar2110@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="36" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="36" />
   </a>
   <a href="https://youtube.com/@shravansaysofficial" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="36" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="36" />
   </a>
   <a href="https://www.instagram.com/shravan_says_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tech%20Content&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="36" />
+    <img src="https://img.shields.io/badge/Tech%20Content-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="36" />
   </a>
 </div>
 
