@@ -1,46 +1,64 @@
-<h1 align="left">Shravan Says</h1>
+<h1 align="left">Shravan Says 🚀</h1>
 
-<p align="left"><i>Progress is simple: less confusion today than yesterday.</i></p>
+<p align="left"><i>Less confusion than yesterday. More clarity than before.</i></p>
 
 ---
 
 <h3 align="left">Hey, I'm Shravan</h3>
 
 <p align="left">
-Final Year Computer Engineering Student @ SPPU<br>
-Focused on building real-world projects and becoming industry-ready
+Final Year Computer Engineering Student @ SPPU <br>
+I build real-world web applications and focus on becoming industry-ready through execution.
 </p>
 
 ---
 
-<h3 align="left">About</h3>
+<h3 align="left">🚀 What I Do</h3>
 
 <p align="left">
-• Build first, understand deeper through iteration<br>
-• Prefer practical systems over theoretical knowledge<br>
-• Consistent improvement over random effort
+• Build full-stack applications with real use-cases <br>
+• Turn ideas into working systems (not just concepts) <br>
+• Learn by shipping, not just consuming
+</p>
+
+---
+
+<h3 align="left">🧠 Current Focus</h3>
+
+<p align="left">
+• Building a production-level full-stack project <br>
+• Strengthening backend + system design basics <br>
+• Preparing for internships (Web Dev / Full Stack)
+</p>
+
+---
+
+<h3 align="left">📌 Featured Direction</h3>
+
+<p align="left">
+Currently working towards creating projects that solve practical problems and demonstrate real engineering thinking — not just CRUD apps.
 </p>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shravan-komejwar-184318258/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/shravan-komejwar-184318258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="36" />
   </a>
-  <a href="mailto:sdkomejwar2110@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:sdkomejwar2110@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="36" />
   </a>
-  <a href="https://youtube.com/@shravansaysofficial" target="_blank" rel="noopener noreferrer">
+  <a href="https://youtube.com/@shravansaysofficial" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="36" />
   </a>
-  <a href="https://www.instagram.com/shravan_says_/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tech%20Content-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="36" />
+  <a href="https://www.instagram.com/shravan_says_/" target="_blank">
+    <img src="https://img.shields.io/badge/Content-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="36" />
   </a>
 </div>
 
 ---
 
-<h3 align="left">Coding</h3>
+<h3 align="left">💻 Coding</h3>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/sdkomejwar2110?theme=dark&font=baloo&ext=contest" />
@@ -48,7 +66,7 @@ Focused on building real-world projects and becoming industry-ready
 
 ---
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">⚙️ Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
@@ -80,12 +98,12 @@ Focused on building real-world projects and becoming industry-ready
 
 ---
 
-<h3 align="left">Current Focus</h3>
+<h3 align="left">📈 Philosophy</h3>
 
 <p align="left">
-• Strengthening full-stack fundamentals<br>
-• Building a production-level project<br>
-• Actively seeking internship opportunities
+Consistency > Motivation <br>
+Execution > Overthinking <br>
+Clarity comes from doing
 </p>
 
 ---
