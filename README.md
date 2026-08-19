@@ -7,8 +7,8 @@
 <h3 align="left">👋 Hey, I'm Shravan</h3>
 
 <p align="left">
-Final Year Computer Engineering Student @ SPPU <br>
-I build real-world web applications and focus on becoming industry-ready through execution.
+Computer Engineering Graduate @ SPPU <br>
+Software Developer focused on building real-world applications and understanding the engineering behind them.
 </p>
 
 ---
@@ -16,9 +16,10 @@ I build real-world web applications and focus on becoming industry-ready through
 <h3 align="left">🚀 What I Do</h3>
 
 <p align="left">
-• Build full-stack applications with real use-cases <br>
-• Turn ideas into working systems (not just concepts) <br>
-• Learn by building, not just consuming
+• Build full-stack applications with real-world use cases <br>
+• Design and build REST APIs and backend systems <br>
+• Turn ideas into working, scalable solutions <br>
+• Learn through building, debugging, and problem solving
 </p>
 
 ---
@@ -26,17 +27,32 @@ I build real-world web applications and focus on becoming industry-ready through
 <h3 align="left">🧠 Current Focus</h3>
 
 <p align="left">
-• Building a production-level full-stack project <br>
-• Strengthening backend + system design basics <br>
-• Looking for internships (Web Dev / Full Stack)
+• Strengthening DSA and problem-solving skills <br>
+• Building with React, Node.js, Express, and SQL <br>
+• Exploring backend architecture and system design <br>
+• Looking for full-time Software Developer opportunities
 </p>
 
 ---
 
-<h3 align="left">📌 Featured Direction</h3>
+<h3 align="left">📚 Research & Engineering</h3>
 
 <p align="left">
-Currently working towards creating projects that solve practical problems and demonstrate real engineering thinking — not just CRUD apps.
+• Published research papers on serverless and event-driven systems <br>
+• Worked on AWS-based receipt processing and data extraction systems <br>
+• Interested in backend architecture, APIs, cloud systems, and scalable software
+</p>
+
+---
+
+<h3 align="left">📌 What You'll Find Here</h3>
+
+<p align="left">
+Technology • Engineering • Self-Growth • Career Lessons • Things I'm Building
+</p>
+
+<p align="left">
+I share ideas, engineering insights, lessons from building, and perspectives on growing as a developer.
 </p>
 
 ---
