@@ -1,4 +1,4 @@
-<h1 align="left">Shravan Says ⚡️</h1>
+<h1 align="left">Shravan Komejwar </h1>
 
 <p align="left"><i>Less confusion than yesterday. More clarity than before.</i></p>
 
